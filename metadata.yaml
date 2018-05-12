@@ -1,0 +1,30 @@
+_repo: The-Jesuit-Relations-and-Allied-Documents-Vol.-III--Acadia-1611-1616_46218
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 46218-h/images/cover.jpg
+creator:
+  editor:
+    agent_name: Thwaites, Reuben Gold
+    alias: Thwaites, R. G. (Reuben Gold)
+    birthdate: 1853
+    deathdate: 1913
+    gutenberg_agent_id: '33780'
+    url: http://www.gutenberg.org/2009/agents/33780
+description: ''
+gutenberg_issued: '2014-07-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '46218'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Indians of North America -- Canada'
+- !lcsh 'Canada -- History -- To 1763 (New France)'
+- !lcsh 'Jesuits -- North America'
+- !lcc 'F1001'
+- !lcsh 'Jesuits -- Missions'
+title: 'The Jesuit Relations and Allied Documents, Vol. 3: Acadia, 1611-1616'
+url: http://www.gutenberg.org/ebooks/46218
